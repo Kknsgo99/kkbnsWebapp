@@ -1,5 +1,5 @@
-var SPREADSHEET_ID = 'XXX_spreadsheet_ID_goes_here_XXX';
-var appPw = 'XXX_password_here_XXX';
+var SPREADSHEET_ID = '19UAu2i0n59AFNb_dH-C0hKabPWFAVdhu4iY6vkRbzNg';
+var appPw = 'kknsgo99';
 var spreadsheet = SpreadsheetApp.openById(SPREADSHEET_ID);
 var worksheet = spreadsheet.getSheets()[0];
 var rows;
